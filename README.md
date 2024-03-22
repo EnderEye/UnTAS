@@ -24,7 +24,9 @@ Press P to Pause.
 # Patches
 
 Karlson is the testing game I chose, as it is a speedrunning game. There is a really annoying vignette, so I'm releasing this patch to fix it.
+
 **INSTALL THE PATCH FIRST AS IT MAY BREAK STUFF IF YOU INSTALL IT AFTER MELONLOADER**
+
 Download - https://mega.nz/file/NvFViSja#EHhJNXFnYoEi3lmiW6fDjS-841ZWjjoPtX2ZRSptvio
 
 # Tested Compatible Games
