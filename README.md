@@ -7,6 +7,7 @@ Welcome to UnTAS! UnTAS is a speedhack utility that can slow and speed-up games.
 - UnTAS only works on Mono games.
 - UnTAS doesn't support Mac.
 - Some games don't work.
+- Pronounce it Yoon-TAS or Oohn-TAS
 
 # Installation
 
