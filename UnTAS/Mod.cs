@@ -64,12 +64,14 @@ namespace UnTAS
                     if (Time.timeScale > 0.1f)
                     {
                         baseTimeScale -= 0.1f;
+                        MelonLogger.Msg("Speed: " + baseTimeScale);
                     }
                 }
 
                 if (Input.GetKeyDown(FastKey))
                 {
                     baseTimeScale += 0.1f;
+                    MelonLogger.Msg("Speed: " + baseTimeScale);
                 }
             }
 
@@ -81,6 +83,7 @@ namespace UnTAS
             if(Input.GetKeyDown(ResetKey))
             {
                 baseTimeScale = 1f;
+                MelonLogger.Msg("Speed: " + baseTimeScale);
             }
 
             Time.timeScale = baseTimeScale;
