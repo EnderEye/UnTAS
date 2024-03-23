@@ -33,6 +33,7 @@ Karlson Vignette Patch - https://mega.nz/file/NvFViSja#EHhJNXFnYoEi3lmiW6fDjS-84
 - Milkman Karlson
 - Grey-Box Testing
 - ThatGame.exe
+- Celeste 3D
 
 # Known Incompatible Games
 
