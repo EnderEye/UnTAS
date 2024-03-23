@@ -34,6 +34,7 @@ Karlson Vignette Patch - https://mega.nz/file/NvFViSja#EHhJNXFnYoEi3lmiW6fDjS-84
 - Grey-Box Testing
 - ThatGame.exe
 - Celeste 3D
+- Baldi's Basics Classic Remastered
 
 # Known Incompatible Games
 
