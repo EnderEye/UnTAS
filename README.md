@@ -24,20 +24,17 @@ Press P to Pause.
 
 # Patches
 
-Karlson is the testing game I chose, as it is a speedrunning game. There is a really annoying vignette, so I'm releasing this patch to fix it.
-
-**INSTALL THE PATCH FIRST AS IT MAY BREAK STUFF IF YOU INSTALL IT AFTER MELONLOADER.**
-
-Download - https://mega.nz/file/NvFViSja#EHhJNXFnYoEi3lmiW6fDjS-841ZWjjoPtX2ZRSptvio
+Karlson Vignette Patch - https://mega.nz/file/NvFViSja#EHhJNXFnYoEi3lmiW6fDjS-841ZWjjoPtX2ZRSptvio
 
 # Tested Compatible Games
 
 - Karlson (Download the patch)
 - RE:RUN
-- Grey-Box Testing
 - Milkman Karlson
+- Grey-Box Testing
 - ThatGame.exe
 
 # Known Incompatible Games
 
-- Baldi's Basics (MelonLoader problem)
+- Baldi's Basics Classic (MelonLoader problem)
+- Karlson 2D (Loads but doesn't work)
