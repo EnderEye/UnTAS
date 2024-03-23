@@ -20,7 +20,9 @@ Welcome to UnTAS! UnTAS is a speedhack utility that can slow and speed-up games.
 
 Press Minus to Slowdown.
 Press Equals to Speed-Up.
-Press P to Pause.
+
+Press M to Reset Speed.
+Press R to Pause.
 
 # Patches
 
