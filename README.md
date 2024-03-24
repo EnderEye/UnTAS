@@ -2,6 +2,10 @@
 
 Welcome to UnTAS! UnTAS is a speedhack utility that can slow and speed-up games.
 
+# Warning
+
+Do not use UnTAS in multiplayer games, unless you want to risk getting banned. You have been warned!
+
 # Information
 
 - UnTAS only works on Mono games.
